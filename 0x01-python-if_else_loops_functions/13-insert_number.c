@@ -1,9 +1,3 @@
-/* File name : 13_insert_numbers
- * Author : Adekunle Joshua Adebisi
- * Gmail :Adekunle8k@gmail.com
-*/
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "lists.h"
